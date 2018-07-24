@@ -6,7 +6,7 @@ import Router from 'vue-router'
 //import ComponentName from '@/components/ComponentName'
 //
 //异步组件写法
-//const ComponentName = () => import(/* webpackChunkName: "ChunkName" */'../components/ComponentName')
+//const ComponentName = () => import(/* webpackChunkName: "ChunkName" */'@/components/ComponentName')
 //
 
 
